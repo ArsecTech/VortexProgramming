@@ -414,7 +414,6 @@ cd VortexProgramming
 dotnet run --project demo/VortexProgramming.Demo
 ```
 
-📧 **Questions?** Open an [issue](https://github.com/ArsecTech/VortexProgramming/issues) or start a [discussion](https://github.com/ArsecTech/VortexProgramming/discussions)
 
 ---
 
